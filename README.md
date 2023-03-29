@@ -6,6 +6,7 @@ Lisp in Java.
 -Reader macros (backquote)
 -Toploop
 
+``` lisp
 -------- init.lsp --------------
 ;;; Standard lisp functions
 
