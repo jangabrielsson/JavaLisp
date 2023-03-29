@@ -1,10 +1,10 @@
 # JavaLisp
 Lisp in Java.
--Tail recursive
--Macros,Lambda,Closures
--Throw,Catch
--Reader macros (backquote)
--Toploop
+- Tail recursive
+- Macros,Lambda,Closures
+- Throw,Catch
+- Reader macros (backquote)
+- Toploop
 
 ``` lisp
 -------- init.lsp --------------
