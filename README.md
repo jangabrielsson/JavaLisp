@@ -5,6 +5,7 @@ Lisp in Java.
 - Throw,Catch
 - Reader macros (backquote)
 - Toploop
+- Experimental java integration
 
 ``` lisp
 -------- init.lsp --------------
